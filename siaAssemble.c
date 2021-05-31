@@ -2,7 +2,7 @@
 //  siaAssemble.c
 //  Assignment2
 //
-//  Created by 秦玮蔚 on 2020/4/23.
+//  Created by Weiwei Qin on 2020/4/23.
 //  Copyright © 2020 Qin Weiwei. All rights reserved.
 //
 
