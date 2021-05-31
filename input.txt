@@ -1,0 +1,22 @@
+add r1 r2 r3
+and r1 r2 r3
+divide r1 r2 r3
+halt r1 r2 r3
+multiply r1 r2 r3
+or r1 r2 r3
+subtract r1 r2 r3
+brachIfLess r1 r2 1000
+brachIfLessOrEqual r1 r2 1000
+branchIfEqual r1 r2 1000
+branchIfNotEqual r1 r2 1000
+branchIfGreater r1 r2 1000
+branchIfGreaterOrEqual r1 r2 1000
+call 444
+jump 48
+load r1 r2 10
+store r1 r2 10
+pop r1
+push r1
+return r1
+move -127 r1
+interrupt 0
